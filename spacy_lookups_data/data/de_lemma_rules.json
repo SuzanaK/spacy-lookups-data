@@ -1,0 +1,382 @@
+{
+  "adj": [
+    [
+      "weise",
+      "weise"
+    ],
+    [
+      "esten",
+      ""
+    ],
+    [
+      "ester",
+      ""
+    ],
+    [
+      "erem",
+      ""
+    ],
+    [
+      "erer",
+      ""
+    ],
+    [
+      "eren",
+      ""
+    ],
+    [
+      "eres",
+      ""
+    ],
+    [
+      "ere",
+      ""
+    ],
+    [
+      "estes",
+      ""
+    ],
+    [
+      "ester",
+      ""
+    ],
+    [
+      "esten",
+      ""
+    ],
+    [
+      "este",
+      ""
+    ],
+    [
+      "est",
+      ""
+    ],
+    [
+      "stes",
+      ""
+    ],
+    [
+      "ster",
+      ""
+    ],
+    [
+      "ste",
+      ""
+    ],
+    [
+      "sten",
+      ""
+    ],
+    [
+      "st",
+      ""
+    ],
+    [
+      "stem",
+      ""
+    ],
+    [
+      "er",
+      ""
+    ],
+    [
+      "es",
+      ""
+    ],
+    [
+      "em",
+      ""
+    ],
+    [
+      "en",
+      ""
+    ],
+    [
+      "e",
+      ""
+    ]
+  ],
+  "noun": [
+    [
+      "nisses",
+      "nis"
+    ],
+    [
+      "nisse",
+      "nis"
+    ],
+    [
+      "nis",
+      "nis"
+    ],
+    [
+      "heiten",
+      "heit"
+    ],
+    [
+      "heit",
+      "heit"
+    ],
+    [
+      "keiten",
+      "keit"
+    ],
+    [
+      "keit",
+      "keit"
+    ],
+    [
+      "täten",
+      "tät"
+    ],
+    [
+      "tät",
+      "tät"
+    ],
+    [
+      "schaften",
+      "schaft"
+    ],
+    [
+      "schaft",
+      "schaft"
+    ],
+    [
+      "ungen",
+      "ung"
+    ],
+    [
+      "ung",
+      "ung"
+    ],
+    [
+      "logien",
+      "logie"
+    ],
+    [
+      "logie",
+      "logie"
+    ],
+    [
+      "chens",
+      "chen"
+    ],
+    [
+      "chen",
+      "chen"
+    ],
+    [
+      "leins",
+      "lein"
+    ],
+    [
+      "lein",
+      "lein"
+    ],
+    [
+      "zeugs",
+      "zeug"
+    ],
+    [
+      "zeug",
+      "zeug"
+    ],
+    [
+      "tums",
+      "tum"
+    ],
+    [
+      "tum",
+      "tum"
+    ],
+    [
+      "wesens",
+      "wesen"
+    ],
+    [
+      "wesen",
+      "wesen"
+    ],
+    [
+      "sels",
+      "sel"
+    ],
+    [
+      "sals",
+      "sal"
+    ],
+    [
+      "sal",
+      "sal"
+    ],
+    [
+      "äume",
+      "aum"
+    ],
+    [
+      "aums",
+      "aum"
+    ],
+    [
+      "aum",
+      "aum"
+    ],
+    ["innen", "in"],
+    ["in", "in"],
+    ["täten", "tät"],
+    ["ahnen", "ahne"],
+    ["enten", "ent"],
+    ["ents", "ent"],
+    ["ent", "ent"],
+    ["räser", "ras"],
+    ["rases", "ras"],
+    ["ras", "ras"],
+    ["hrten", "hrt"],
+    ["hrt", "hrt"],
+    ["ücher", "uch"],
+    ["uchs", "uch"],
+    ["uch", "uch"],
+    ["örner", "orn"],
+    ["orns", "orn"],
+    ["orn", "orn"],
+    ["änder", "and"],
+    ["ands", "and"],
+    ["and", "and"],
+    ["ürmer", "urm"],
+    ["urms", "urm"],
+    ["urm", "urm"],
+
+    ["ahlen", "ahl"], ["uhren", "uhr"], ["ätter", "att"], ["suren", "sur"], ["chten", "cht"],
+    ["kuren", "kur"], ["erzen", "erz"], ["güter", "gut"], ["soren", "sor"], ["änner", "ann"],
+    ["äuser", "aus"], ["taten", "tat"], ["isten", "ist"], ["bäder", "bad"], ["ämter", "amt"],
+    ["eiten", "eit"], ["raten", "rat"], ["ormen", "orm"], ["ionen", "ion"], ["nisse", "nis"],
+    ["ölzer", "olz"], ["ungen", "ung"], ["läser", "las"], ["ächer", "ach"], ["urten", "urt"],
+    ["enzen", "enz"], ["aaten", "aat"], ["aphen", "aph"], ["öcher", "och"], ["türen", "tür"],
+    ["sonen", "son"], ["ühren", "ühr"], ["ühner", "uhn"], ["toren", "tor"], ["örter", "ort"],
+    ["anten", "ant"], ["räder", "rad"], ["turen", "tur"], ["äuler", "aul"], ["änze", "anz"],
+    ["tten", "tte"], ["mben", "mbe"], ["ädte", "adt"], ["llen", "lle"], ["ysen", "yse"],
+    ["rben", "rbe"], ["hsen", "hse"], ["raün", "ra"], ["rven", "rve"], ["rken", "rke"],
+    ["ünge", "ung"], ["üten", "üte"], ["usen", "use"], ["tien", "tie"], ["läne", "lan"],
+    ["iben", "ibe"], ["ifen", "ife"], ["ssen", "sse"], ["gien", "gie"], ["eten", "ete"],
+    ["rden", "rde"], ["öhne", "ohn"], ["ärte", "art"], ["ncen", "nce"], ["ünde", "und"],
+    ["uben", "ube"], ["lben", "lbe"], ["üsse", "uss"], ["agen", "age"], ["räge", "rag"],
+    ["ogen", "oge"], ["anen", "ane"], ["sken", "ske"], ["eden", "ede"], ["össe", "oss"],
+    ["ürme", "urm"], ["ggen", "gge"], ["üren", "üre"], ["nten", "nte"], ["ühle", "ühl"],
+    ["änge", "ang"], ["mmen", "mme"], ["igen", "ige"], ["nken", "nke"], ["äcke", "ack"],
+    ["oden", "ode"], ["oben", "obe"], ["ähne", "ahn"], ["änke", "ank"], ["inen", "ine"],
+    ["seen", "see"], ["äfte", "aft"], ["ulen", "ule"], ["äste", "ast"], ["hren", "hre"],
+    ["öcke", "ock"], ["aben", "abe"], ["öpfe", "opf"], ["ugen", "uge"], ["lien", "lie"],
+    ["ände", "and"], ["ücke", "ück"], ["asen", "ase"], ["aden", "ade"], ["dien", "die"],
+    ["aren", "are"], ["tzen", "tze"], ["züge", "zug"], ["üfte", "uft"], ["hien", "hie"],
+    ["nden", "nde"], ["älle", "all"], ["hmen", "hme"], ["ffen", "ffe"], ["rmen", "rma"],
+    ["olen", "ole"], ["sten", "ste"], ["amen", "ame"], ["höfe", "hof"], ["üste", "ust"],
+    ["hnen", "hne"], ["ähte", "aht"], ["umen", "ume"], ["nnen", "nne"], ["alen", "ale"],
+    ["mpen", "mpe"], ["mien", "mie"], ["rten", "rte"], ["rien", "rie"], ["äute", "aut"],
+    ["uden", "ude"], ["lgen", "lge"], ["ngen", "nge"], ["iden", "ide"], ["ässe", "ass"],
+    ["osen", "ose"], ["lken", "lke"], ["eren", "ere"], ["üche", "uch"], ["lüge", "lug"],
+    ["hlen", "hle"], ["isen", "ise"], ["ären", "äre"], ["töne", "ton"], ["onen", "one"],
+    ["rnen", "rne"], ["üsen", "üse"], ["haün", "ha"], ["pien", "pie"], ["ihen", "ihe"],
+    ["ürfe", "urf"], ["esen", "ese"], ["ätze", "atz"], ["sien", "sie"], ["läge", "lag"],
+    ["iven", "ive"], ["ämme", "amm"], ["äufe", "auf"], ["ppen", "ppe"], ["enen", "ene"],
+    ["lfen", "lfe"], ["äume", "aum"], ["nien", "nie"], ["unen", "une"], ["cken", "cke"],
+    ["oten", "ote"], ["mie", "mie"], ["rie", "rie"], ["sis", "sen"], ["rin", "rin"],
+    ["ein", "ein"], ["age", "age"], ["ern", "ern"], ["ber", "ber"], ["ion", "ion"],
+    ["inn", "inn"], ["ben", "ben"], ["äse", "äse"], ["eis", "eis"], ["hme", "hme"],
+    ["iss", "iss"], ["hen", "hen"], ["fer", "fer"], ["gie", "gie"], ["fen", "fen"],
+    ["her", "her"], ["ker", "ker"], ["nie", "nie"], ["mer", "mer"], ["ler", "ler"],
+    ["men", "men"], ["ass", "ass"], ["ner", "ner"], ["per", "per"], ["rer", "rer"],
+    ["mus", "mus"], ["abe", "abe"], ["ter", "ter"], ["ser", "ser"], ["äle", "aal"],
+    ["hie", "hie"], ["ger", "ger"], ["tus", "tus"], ["gen", "gen"], ["ier", "ier"],
+    ["ver", "ver"], ["zer", "zer"],
+    ["nen", ""],
+    ["sen", "s"],
+    ["en", ""],
+    ["er", ""],
+    ["n", ""],
+    ["e", ""],
+    ["s", ""]
+  ],
+  "verb": [
+    ["lte", "len"],
+    ["ltest", "len"],
+    ["lten", "len"],
+    ["ltet", "len"],
+    ["iertest", "ieren"],
+    ["ierten", "ieren"],
+    ["ierte", "ieren"],
+    ["ierst", "ieren"],
+    ["iertet", "ieren"],
+    ["iert", "ieren"],
+    ["ttetest", "tten"],
+    ["tteten", "tten"],
+    ["ttete", "tten"],
+    ["ttet", "tten"],
+    ["ertest", "ern"],
+    ["erten", "ern"],
+    ["ertet", "ern"],
+    ["erten", "ern"],
+    ["erte", "ern"],
+    ["ert", "ern"],
+    ["erst", "ern"],
+    ["lte", "lten"],
+    ["lst", "lten"],
+    ["lten", "lten"],
+    ["ltet", "lten"],
+    ["rte", "ern"],
+    ["rtest", "ern"],
+    ["rte", "ern"],
+    ["rten", "ern"],
+    ["rtet", "ern"],
+    ["rten", "ern"],
+    ["kte", "ken"],
+    ["ktest", "ken"],
+    ["kten", "ken"],
+    ["ktet", "ken"],
+    ["tetest", "ten"],
+    ["teten", "ten"],
+    ["tete", "ten"],
+    ["test", "en"],
+    ["tet", "ten"],
+    ["te", "en"],
+    ["dle", "deln"],
+    ["dele", "deln"],
+    ["delst", "deln"],
+    ["delt", "deln"],
+    ["deln", "deln"],
+    ["delt", "deln"],
+    ["delte", "deln"],
+    ["deltest", "deln"],
+    ["delte", "deln"],
+    ["deltet", "deln"],
+    ["delten", "deln"],
+    ["le", "eln"],
+    ["ele", "eln"],
+    ["elst", "eln"],
+    ["elt", "eln"],
+    ["eln", "eln"],
+    ["elt", "eln"],
+    ["elte", "eln"],
+    ["eltest", "eln"],
+    ["elte", "eln"],
+    ["eltet", "eln"],
+    ["elten", "eln"],
+    ["elnd", "eln"],
+    ["ernd", "ern"],
+    ["end", "en"],
+    ["dest", "den"],
+    ["gest", "gen"],
+    ["nest", "nen"],
+    ["zest", "zen"],
+    ["est", "en"],
+    ["e", "en"],
+    ["gt", "gen"],
+    ["est", "en"],
+    ["st", "en"],
+    ["ern", "ern"],
+    ["eln", "eln"],
+
+    ["et", "en"],
+    ["t", "en"]
+  ]
+}

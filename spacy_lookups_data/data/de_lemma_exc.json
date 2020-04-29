@@ -1,0 +1,24 @@
+{
+    "adj": {},
+    "adv": {
+    },
+    "noun": {
+      "kerzen": ["kerze"],
+      "kerze": ["kerze"],
+      "listen": ["liste"],
+      "liste": ["liste"],
+      "raten": ["rate"],
+      "rate": ["rate"],
+      "tanten": ["tante"],
+      "tante": ["tante"],
+      "schreiben": ["schreiben"],
+      "bücherschreiben": ["bücherschreiben"],
+      "streifen": ["streifen"],
+      "föhne": ["föhn"],
+      "sünde": ["sünde"],
+      "alben": ["album"],
+      "schräge": ["schräge"]
+    },
+
+    "verb": {}
+}
